@@ -38,3 +38,5 @@ Congrats, your bot should now be up!
 • [Intellivoid](https://github.com/intellivoid) for providing the API used for this project.
 
 • [pyrogram](https://github.com/pyrogram) - the library used for this project.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mptelepro/MisakiChatbot.git) 
