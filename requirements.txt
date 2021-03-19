@@ -2,5 +2,5 @@ coffeehouse
 configparser
 psycopg2
 pyrogram
-sqlalchemy
+sqlalchemy==1.2.13
 tgcrypto
